@@ -1,0 +1,175 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+#logo{
+	width: 90%;
+	padding: 6%;
+}
+.row{
+	width: 100%;
+}
+#bg-1{
+	background-image: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 1;
+}
+.jumbotron{
+	background-color: transparent;
+}
+nav{
+	padding-top: 2%;
+    padding-right: 5%;
+}
+#bg-1-1{
+	background-color: #424242;
+	opacity: 0.8;
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav > li > a{
+	color: white;
+	font-size: 125%;
+	font-family: Lato;
+	padding-top: 3%;
+}
+.navbar-default .navbar-nav > li > a:hover{
+	color: #5280B5;
+}
+.title-1{
+	width: 76%;
+	text-align: center;
+	padding: 7% 0% 10% 27%;
+	font-size: 308%;
+	color: white;
+	text-align: justify;
+	font-family: Lato;
+}
+.bg-2{
+	width: 100%;
+	background-color: #2578b9;
+}
+.pg{
+	border: 1px solid white;
+	border-radius: 3px;
+	
+}
+.title-2{
+	padding: 4% 0% 0% 58%;
+	font-size: 186%;
+	display: inline-block;
+	color: white;
+}
+h3{
+	padding: 0% 0% 0% 58%;
+	font-size: 110%;
+	display: inline-block;
+	color: white;
+	margin: 0px;
+}
+.col-6{
+	padding-right: 36%;
+    padding-top: 4%;
+}
+.iconos{
+	font-size:200%; 
+	color: #81B9FF;
+
+}
+.bg-icono{
+	padding: 11%;
+	margin: 5% 30%;
+	border-radius: 100%;
+	border: 1px solid white; 
+	box-shadow: 2px 2px 5px #999;
+}
+.title-3{
+	color: #76B1FF;
+	text-align: center;
+	padding: 8% 0% 4% 0% ;
+	font-size: 288%;
+}
+.title-4{
+	width: 69%;
+	padding: 5% 0% 9% 27%;
+	color: black;
+	text-align: center;
+}
+.col-4{
+	padding: 0% 4% 8% 4%;
+}
+p{
+	text-align: center;
+	padding: 2% 0% 5% 0% ;
+}
+.ns{
+	border-bottom: 1px solid #F2F2F2;
+	position: relative;
+}
+.ns-1{
+	border-top: 1px solid #F2F2F2;
+}
+.separator{
+	margin: -4% 0% 0% 46%;
+	position: relative;
+}
+.logo-2{
+	width: 50%;
+}
+.galeria-1{
+	width: 100%;
+}
+.row-header{
+	padding: 2%;
+}
+.row-ej{
+	padding-top: 5%;
+	padding-bottom: 8%;
+}
+.title-5{
+	color: #81B9FF;
+	padding: 0% 0% 0% 6%;
+}
+.texto-1{
+	padding: 6% 0% 0% 0%;
+	text-align: left;
+}
+a{
+	color: #81B9FF;
+}
+.img-fecha{
+	width: 20%;
+}
+.flecha{
+	padding-left: 34%;
+	box-sizing: border-box;
+}
+.lista-pasos li{
+	color: #81B9FF;
+	list-style: none;
+}
+.lp li{
+	color: black;
+}
+.bg-3{
+	background-color: #424242;
+	opacity: 0.8;
+	padding: 0px; 
+}
+.row-pqu{
+	padding-top: 10%;
+	padding-bottom: 8%;
+}
+.pie-pag{
+	padding: 0px;
+	color: white;
+}
+footer{
+	background-color: #2A3541;
+}

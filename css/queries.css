@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+section{
+	background-image: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 1;
+	padding: 11% 0% 18% 26%;
+}
+form{
+	background-color: white;
+	border: 1px solid white;
+	width: 69%;
+    padding-left: 8%;
+    padding-right: 3%;
+}
+h2{
+	width: 87%;
+	border-bottom:1px solid black;
+	padding-top: 3%;
+}
+#nombre{
+	width: 55%;
+	height: 26px;
+	margin: 2% 0% 2% 14%;
+}
+#email{
+	width: 55%;
+	height: 26px;
+	margin: 2% 0% 2% 17%;
+}
+textarea{
+	margin: 2% 0% 2% 5%;
+	width: 55%;
+    height: 88px;
+}
+.btn{
+	margin: 0% 0% 0% 27%;
+	width: 20%;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    background-color: #2578b9;
+}
+#email-1{
+	width: 37%;
+    height: 26px;
+    margin: 2% 0% 2% 36%;
+}
